@@ -20,7 +20,7 @@
         <Label Content="英吋" HorizontalAlignment="Left" Margin="106,168,0,0" VerticalAlignment="Top"/>
         <Label Content="英呎" HorizontalAlignment="Left" Margin="327,168,0,0" VerticalAlignment="Top"/>
         <Label Content="碼" HorizontalAlignment="Left" Margin="512,168,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtInfo" HorizontalAlignment="Left" Margin="72,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="394" KeyUp="txtInfo_KeyUp"/>
+        <TextBox x:Name="txtInfo" HorizontalAlignment="Left" Margin="72,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="394"/>
 
     </Grid>
 </Window>
